@@ -12,9 +12,7 @@
 </div>
 
 
-<div id="vues" align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt="" />
-  </div>
+
 
 
 <h1 align="center">
